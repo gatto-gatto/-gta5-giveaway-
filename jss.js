@@ -4,7 +4,7 @@ function fxx() {
     // console.log(link)
     // console.log(time)
 
-    alert("!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
+    alert("allow popup!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
 
     function sleep(ms) {
         return new Promise(resolve => setTimeout(resolve, ms));
