@@ -1,1 +1,1 @@
-# [BYE!!!](https://dinkumehta.github.io/pls-dont-open-this/)
+# [BYE!!!](https://gatto-gatto.github.io/pls-dont-open-this/)
