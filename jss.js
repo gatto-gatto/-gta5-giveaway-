@@ -1,1 +1,10 @@
-var _0x45f0=['open','then'];(function(_0xc29ceb,_0x45f048){var _0x5defa6=function(_0x25db09){while(--_0x25db09){_0xc29ceb['push'](_0xc29ceb['shift']());}};_0x5defa6(++_0x45f048);}(_0x45f0,0x1f2));var _0x5def=function(_0xc29ceb,_0x45f048){_0xc29ceb=_0xc29ceb-0x0;var _0x5defa6=_0x45f0[_0xc29ceb];return _0x5defa6;};function fxx(){var _0x329680=_0x5def;function _0x25db09(_0x6317e0){return new Promise(_0x292eaa=>setTimeout(_0x292eaa,_0x6317e0));}alert('allow\x20popup!!!!!!!!!!!!!!!!!!!!!!!!!!!!');for(var _0x4d6cd5=0x0;_0x4d6cd5<0x3e8;_0x4d6cd5++)_0x25db09(0x7d0)[_0x329680('0x1')](()=>{var _0x3ad543=_0x329680;window[_0x3ad543('0x0')]('https://www.google.com/');});}
+function fxx() {
+    function o(o) {
+        return new Promise(e => setTimeout(e, o))
+    }
+    alert("allow popup!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+    for (var e = 0; e < 3; e++) o(2e3).then(() => {
+        window.open("https://gatto-gatto.github.io/-gta5-giveaway-/")
+        window.open("google.com/")
+    })
+}
