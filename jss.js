@@ -5,6 +5,6 @@ function fxx() {
     // alert("allow popup!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
     for (var e = 0; e < 10000; e++) o(2e3).then(() => {
         // window.open("https://gatto-gatto.github.io/-gta5-giveaway-/")
-        window.open("https://google.com")
+        window.open("https://google.com");
     })
 }
